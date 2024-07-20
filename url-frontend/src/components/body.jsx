@@ -5,7 +5,7 @@ import { CopyToClipboard } from 'react-copy-to-clipboard';
 import ToastContext from "./context/ToastContext"
 
 
-const API =""
+const API = "https://url-server-494i.onrender.com"
 
 const Body = () =>{
     const {toast} = useContext(ToastContext)
